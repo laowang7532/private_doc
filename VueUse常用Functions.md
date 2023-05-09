@@ -1,4 +1,4 @@
-# VueUse常用Functions集
+# VueUse常用Functions
 
 ## 1、[useDraggable](https://vueuse.org/core/useDraggable/) 拖拽
 
